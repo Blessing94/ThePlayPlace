@@ -1,25 +1,23 @@
 {
   "files": {
     "main.css": "/ThePlayPlace/static/css/main.76fec8ed.css",
-    "main.js": "/ThePlayPlace/static/js/main.233ede85.js",
+    "main.js": "/ThePlayPlace/static/js/main.616a2e88.js",
     "static/js/592.599f76a2.chunk.js": "/ThePlayPlace/static/js/592.599f76a2.chunk.js",
     "static/media/V1.mp4": "/ThePlayPlace/static/media/V1.35723e1f21a640b8fb29.mp4",
     "static/media/stem-img5.jpg": "/ThePlayPlace/static/media/stem-img5.74fca43c03533a920f20.jpg",
     "static/media/stem-img7.jpg": "/ThePlayPlace/static/media/stem-img7.ef9df65cd3dfbf9e7eaa.jpg",
-    "static/media/toys.png": "/ThePlayPlace/static/media/toys.fb7d2d8d3242f0323b7e.png",
     "static/media/stem-img3.jpg": "/ThePlayPlace/static/media/stem-img3.fab295bd3935bcc00438.jpg",
     "static/media/stem-img4.jpg": "/ThePlayPlace/static/media/stem-img4.6418011820a13508d1d1.jpg",
-    "static/media/po.jpg": "/ThePlayPlace/static/media/po.1ac296d59f88b67f7ba5.jpg",
     "static/media/stem-img1.jpg": "/ThePlayPlace/static/media/stem-img1.d5f61d199fe67a5e50aa.jpg",
     "static/media/stem-img2.jpg": "/ThePlayPlace/static/media/stem-img2.46fc7875c7da1e00d0ab.jpg",
     "static/media/py.jpg": "/ThePlayPlace/static/media/py.9a29e5b96c30e8167981.jpg",
     "index.html": "/ThePlayPlace/index.html",
     "main.76fec8ed.css.map": "/ThePlayPlace/static/css/main.76fec8ed.css.map",
-    "main.233ede85.js.map": "/ThePlayPlace/static/js/main.233ede85.js.map",
+    "main.616a2e88.js.map": "/ThePlayPlace/static/js/main.616a2e88.js.map",
     "592.599f76a2.chunk.js.map": "/ThePlayPlace/static/js/592.599f76a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76fec8ed.css",
-    "static/js/main.233ede85.js"
+    "static/js/main.616a2e88.js"
   ]
 }
